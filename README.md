@@ -1,4 +1,6 @@
 # Post-Test-1-Praktikum-B
+# NIM : 2309116060
+# Nama : Fajar Syafatoni Raihanadif
 while True: 
     try:
         Nim = int(input("Masukkan Nim : "))
